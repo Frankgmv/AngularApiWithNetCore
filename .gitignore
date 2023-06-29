@@ -1,9 +1,9 @@
 FRONEND/FEProyecto/.angular/
 FRONEND/FEProyecto/.vscode/*.json
-FRONEND/FEProyecto/node_modules/
+FRONEND/FEProyecto/node_modules
 BACKEND/BKProyect/.vs/**
-
 /node_modules
+
 .vs/
 .vscode/
 .angular/
