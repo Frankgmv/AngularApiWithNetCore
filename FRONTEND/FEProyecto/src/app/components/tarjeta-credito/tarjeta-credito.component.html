@@ -16,7 +16,8 @@
                     <form [formGroup]="form" (ngSubmit)="agregarTarjeta()">
                         <div class="input-group mb-3">
                             <div class="input-group-prepend">
-                                <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-user" [class.green-icon]="this.form.get('titular')?.valid" [class.red-icon]="this.form.get('titular')?.invalid && this.form.get('titular')?.touched" ></i></span>
+                                <span class="input-group-text" id="basic-addon1"><i class="fa-solid fa-user" [class.green-icon]="this.form.get('titular')?.valid"
+                            [class.red-icon]="this.form.get('titular')?.invalid && this.form.get('titular')?.touched"></i></span>
                             </div>
                             <input formControlName="titular" type="text" class="form-control" placeholder="Titular">
                         </div>
