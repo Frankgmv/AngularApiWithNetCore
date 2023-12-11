@@ -17,8 +17,8 @@ Proyecto de práctica para el uso de **Servicios** y **Componentes** en angular,
 
 ## Tech Stack
 
-**Client:** Angular
-**Server:** .Net, Sql Server
+- **Client:** Angular
+- **Server:** .Net, Sql Server
 
 
 
